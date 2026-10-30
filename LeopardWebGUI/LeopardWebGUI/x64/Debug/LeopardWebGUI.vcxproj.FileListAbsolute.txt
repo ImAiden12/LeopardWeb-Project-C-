@@ -1,0 +1,6 @@
+C:\Users\rdele\Documents\Applied Programming Concepts\LeopardWebGUI\LeopardWebGUI\x64\Debug\LeopardWebGUI.vcxproj.AssemblyReference.cache
+C:\Users\rdele\Documents\Applied Programming Concepts\LeopardWebGUI\LeopardWebGUI\x64\Debug\LeopardWebGUI.MyForm.resources
+C:\Users\rdele\Documents\Applied Programming Concepts\LeopardWebGUI\LeopardWebGUI\x64\Debug\LeopardWebGUI.vcxproj.GenerateResource.cache
+C:\Users\apawe\Downloads\LeopardWebGUI\LeopardWebGUI\LeopardWebGUI\x64\Debug\LeopardWebGUI.vcxproj.AssemblyReference.cache
+C:\Users\apawe\Downloads\LeopardWebGUI\LeopardWebGUI\LeopardWebGUI\x64\Debug\LeopardWebGUI.MyForm.resources
+C:\Users\apawe\Downloads\LeopardWebGUI\LeopardWebGUI\LeopardWebGUI\x64\Debug\LeopardWebGUI.vcxproj.GenerateResource.cache
